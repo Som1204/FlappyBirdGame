@@ -1,6 +1,6 @@
 # FlappyBirdGame
 # Objetivo:
-Criar um jogo clássico de flap bird.
+Criar um jogo clássico de flappy bird.
 # Tecnologias Utilizadas:
 O projeto foi desenvolvido em Python utilizando a biblioteca do Pygame.
 # Estrutura:
